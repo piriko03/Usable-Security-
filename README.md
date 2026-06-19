@@ -1,5 +1,5 @@
 პროექტის ონლაინ ვერსია ხელმისაწვდომია შემდეგ მისამართზე:
-https://github.com/piriko03/Usable-Security-
+https://piriko03.github.io/Usable-Security-/
 
 პროექტის ძირითადი ფუნქციები:
 Without Usable Security
